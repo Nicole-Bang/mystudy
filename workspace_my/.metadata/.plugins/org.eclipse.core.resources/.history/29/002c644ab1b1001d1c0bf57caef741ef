@@ -1,0 +1,10 @@
+package Java_source;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
